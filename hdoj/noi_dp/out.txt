@@ -1,0 +1,261 @@
+11111
+db state= 31 des=4
+11101
+db state= 29 des=0
+11101
+db state= 29 des=2
+11001
+db state= 25 des=0
+11001
+db state= 25 des=3
+10001
+db state= 17 des=0
+10001
+db state= 17 des=4
+00001
+db state= 1 des=0
+dp[state][des]=[8]
+01001
+db state= 9 des=0
+dp[state][des]=[32]
+11001
+db state= 25 des=4
+10001
+db state= 17 des=0
+01001
+db state= 9 des=0
+01001
+db state= 9 des=3
+00001
+db state= 1 des=0
+dp[state][des]=[98]
+dp[state][des]=[150]
+10101
+db state= 21 des=0
+10101
+db state= 21 des=4
+10001
+db state= 17 des=0
+00101
+db state= 5 des=0
+00101
+db state= 5 des=2
+00001
+db state= 1 des=0
+dp[state][des]=[13]
+dp[state][des]=[25]
+01101
+db state= 13 des=0
+01101
+db state= 13 des=3
+01001
+db state= 9 des=0
+00101
+db state= 5 des=0
+00101
+db state= 5 des=2
+dp[state][des]=[109]
+dp[state][des]=[46]
+11101
+db state= 29 des=3
+11001
+db state= 25 des=0
+11001
+db state= 25 des=4
+10101
+db state= 21 des=0
+10101
+db state= 21 des=2
+10001
+db state= 17 des=0
+10001
+db state= 17 des=4
+00101
+db state= 5 des=0
+dp[state][des]=[29]
+10101
+db state= 21 des=4
+01101
+db state= 13 des=0
+01101
+db state= 13 des=2
+01001
+db state= 9 des=0
+01001
+db state= 9 des=3
+00101
+db state= 5 des=0
+dp[state][des]=[127]
+dp[state][des]=[49]
+11011
+db state= 27 des=0
+11011
+db state= 27 des=1
+11001
+db state= 25 des=0
+11001
+db state= 25 des=3
+11001
+db state= 25 des=4
+10011
+db state= 19 des=0
+10011
+db state= 19 des=4
+10001
+db state= 17 des=0
+00011
+db state= 3 des=0
+00011
+db state= 3 des=1
+00001
+db state= 1 des=0
+dp[state][des]=[18]
+dp[state][des]=[61]
+01011
+db state= 11 des=0
+01011
+db state= 11 des=3
+01001
+db state= 9 des=0
+00011
+db state= 3 des=0
+00011
+db state= 3 des=1
+dp[state][des]=[96]
+dp[state][des]=[51]
+11011
+db state= 27 des=3
+11001
+db state= 25 des=0
+11001
+db state= 25 des=4
+10011
+db state= 19 des=0
+10011
+db state= 19 des=1
+10001
+db state= 17 des=0
+10001
+db state= 17 des=4
+00011
+db state= 3 des=0
+dp[state][des]=[91]
+10011
+db state= 19 des=4
+01011
+db state= 11 des=0
+01011
+db state= 11 des=1
+01001
+db state= 9 des=0
+01001
+db state= 9 des=3
+00011
+db state= 3 des=0
+dp[state][des]=[117]
+dp[state][des]=[85]
+10111
+db state= 23 des=0
+10111
+db state= 23 des=1
+10101
+db state= 21 des=0
+10101
+db state= 21 des=2
+10101
+db state= 21 des=4
+10011
+db state= 19 des=0
+10011
+db state= 19 des=4
+00111
+db state= 7 des=0
+00111
+db state= 7 des=2
+00101
+db state= 5 des=0
+00011
+db state= 3 des=0
+00011
+db state= 3 des=1
+dp[state][des]=[63]
+dp[state][des]=[67]
+10111
+db state= 23 des=2
+10101
+db state= 21 des=0
+10101
+db state= 21 des=4
+10011
+db state= 19 des=0
+10011
+db state= 19 des=1
+10011
+db state= 19 des=4
+00111
+db state= 7 des=0
+00111
+db state= 7 des=1
+00101
+db state= 5 des=0
+00101
+db state= 5 des=2
+00011
+db state= 3 des=0
+dp[state][des]=[51]
+dp[state][des]=[46]
+01111
+db state= 15 des=0
+01111
+db state= 15 des=1
+01101
+db state= 13 des=0
+01101
+db state= 13 des=2
+01101
+db state= 13 des=3
+01011
+db state= 11 des=0
+01011
+db state= 11 des=3
+00111
+db state= 7 des=0
+00111
+db state= 7 des=2
+dp[state][des]=[101]
+01111
+db state= 15 des=2
+01101
+db state= 13 des=0
+01101
+db state= 13 des=3
+01011
+db state= 11 des=0
+01011
+db state= 11 des=1
+01011
+db state= 11 des=3
+00111
+db state= 7 des=0
+00111
+db state= 7 des=1
+dp[state][des]=[96]
+01111
+db state= 15 des=3
+01101
+db state= 13 des=0
+01101
+db state= 13 des=2
+01011
+db state= 11 des=0
+01011
+db state= 11 des=1
+00111
+db state= 7 des=0
+00111
+db state= 7 des=1
+00111
+db state= 7 des=2
+dp[state][des]=[129]
+dp[state][des]=[58]
+58
