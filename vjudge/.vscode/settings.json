@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "iostream": "cpp",
+        "algorithm": "cpp",
+        "forward_list": "cpp",
+        "list": "cpp",
+        "memory": "cpp",
+        "random": "cpp",
+        "queue": "cpp",
+        "stack": "cpp"
+    }
+}
